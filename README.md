@@ -1,3 +1,6 @@
+
+# Test
+gfrdfdfgttfhrdhrfty
 # Test Odio la vita
 :D
 ## _The Last Markdown Editor, Ever_
@@ -15,6 +18,7 @@ AngularJS-powered HTML5 Markdown editor.
 
 ## Features
 
+
 - Import a HTML file and watch it magically convert to Markdown
 - Drag and drop images (requires your Dropbox account be linked)
 - Import and save files from GitHub, Dropbox, Google Drive and One Drive
@@ -25,6 +29,9 @@ Markdown is a lightweight markup language based on the formatting conventions
 that people naturally use in email.
 As [John Gruber] writes on the [Markdown site][df1]
 
+
+> The overriding design goal for Markdown's
+
 > The ovi amo tutti
 
 > Markdown-formatted document should be
@@ -32,6 +39,8 @@ As [John Gruber] writes on the [Markdown site][df1]
 > looking like it's been marked up with tags
 > or formatting instructions.
 
+
+htrehrethrte
 This text you see here is *actually- written in Markdown! To get a feel
 for Markdown's syntax, type some text into the left window and
 watch the results in the right.
@@ -46,9 +55,7 @@ Dillinger uses a number of open source projects to work properly:
 - [Twitter Bootstrap] - great UI boilerplate for modern web apps
 - [node.js] - evented I/O for the backend
 - [Express] - fast node.js network app framework [@tjholowaychuk]
-- [Gulp] - the streaming build system
-- [Breakdance](https://breakdance.github.io/breakdance/) - HTML
-to Markdown converter
+
 - [jQuery] - duh
 
 And of course Dillinger itself is open source with a [public repository][dill]
