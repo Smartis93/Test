@@ -1,16 +1,17 @@
-# Test
+# Test Odio la vita
+:D
 ## _The Last Markdown Editor, Ever_
 
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
-
+Adolf aveva ragione?
 Dillinger is a cloud-enabled, mobile-ready, offline-storage compatible,
 AngularJS-powered HTML5 Markdown editor.
 
 - Type some Markdown on the left
 - See HTML in the right
-- ✨Magic ✨
+-
 
 ## Features
 
@@ -24,9 +25,8 @@ Markdown is a lightweight markup language based on the formatting conventions
 that people naturally use in email.
 As [John Gruber] writes on the [Markdown site][df1]
 
-> The overriding design goal for Markdown's
-> formatting syntax is to make it as readable
-> as possible. The idea is that a
+> The ovi amo tutti
+
 > Markdown-formatted document should be
 > publishable as-is, as plain text, without
 > looking like it's been marked up with tags
@@ -79,14 +79,6 @@ Dillinger is currently extended with the following plugins.
 Instructions on how to use them in your own application are linked below.
 
 | Plugin | README |
-| ------ | ------ |
-| Dropbox | [plugins/dropbox/README.md][PlDb] |
-| GitHub | [plugins/github/README.md][PlGh] |
-| Google Drive | [plugins/googledrive/README.md][PlGd] |
-| OneDrive | [plugins/onedrive/README.md][PlOd] |
-| Medium | [plugins/medium/README.md][PlMe] |
-| Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
-
 ## Development
 
 Want to contribute? Great!
@@ -135,9 +127,8 @@ Dillinger is very easy to install and deploy in a Docker container.
 By default, the Docker will expose port 8080, so change this within the
 Dockerfile if necessary. When ready, simply use the Dockerfile to
 build the image.
+ciao puzzate
 
-```sh
-cd dillinger
 docker build -t <youruser>/dillinger:${package.json.version} .
 ```
 
@@ -177,8 +168,7 @@ MIT
    [markdown-it]: <https://github.com/markdown-it/markdown-it>
    [Ace Editor]: <http://ace.ajax.org>
    [node.js]: <http://nodejs.org>
-   [Twitter Bootstrap]: <http://twitter.github.com/bootstrap/>
-   [jQuery]: <http://jquery.com>
+  che bello ery.com>
    [@tjholowaychuk]: <http://twitter.com/tjholowaychuk>
    [express]: <http://expressjs.com>
    [AngularJS]: <http://angularjs.org>
@@ -186,7 +176,8 @@ MIT
 
    [PlDb]: <https://github.com/joemccann/dillinger/tree/master/plugins/dropbox/README.md>
    [PlGh]: <https://github.com/joemccann/dillinger/tree/master/plugins/github/README.md>
-   [PlGd]: <https://github.com/joemccann/dillinger/tree/master/plugins/googledrive/README.md>
+   [PlGd]dio fa schifo
+   llinger/tree/master/plugins/googledrive/README.md>
    [PlOd]: <https://github.com/joemccann/dillinger/tree/master/plugins/onedrive/README.md>
    [PlMe]: <https://github.com/joemccann/dillinger/tree/master/plugins/medium/README.md>
    [PlGa]: <https://github.com/RahulHP/dillinger/blob/master/plugins/googleanalytics/README.md>
